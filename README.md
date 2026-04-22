@@ -1,6 +1,6 @@
 - 👋 Olá, sou @phss-dev
 - 👀 Estou interessado em aprender
-- 🌱 Atualmente estou aprendendo Python, HTML e CSS ...
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript ...
 - 📫 Meu Instagram é @ph_souzasilva
 
 <!---
