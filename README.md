@@ -7,7 +7,7 @@ I'm a software developer with a curiosity for learning and improving. I focus on
 <hr>
 <h2>⚙ Technologies & Tools</h2>
 <h3> Languages </h3>
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!---
 phss-dev/phss-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
