@@ -1,9 +1,12 @@
 <h1>Hi there, I'm Pedro Henrique Souza 👋</h1>
-👾 Full Stack Developer | Student |<br>
-📍🇧🇷
+👾 <strong>Full Stack Developer | Student |</strong>  <br>
+📍<strong>🇧🇷</strong>
 <hr>
 <h2>About Me</h2>
 I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. I like to express my creativity to solve problems and apply different solutions.
+<hr>
+<h2>⚙ Technologies & Tools</h2>
+<h3> Languages </h3>
 
 
 <!---
